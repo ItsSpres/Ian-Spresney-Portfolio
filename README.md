@@ -4,7 +4,7 @@ While there are still features being worked on, I believe this little website ge
 Many of the included projects are currently from college.
 However, there are some cool personal ones that I have made.
 
-#👨🏻‍💻 Languages
+## 👨🏻‍💻 Languages
 - HTML
 - Javascript
 - CSS
