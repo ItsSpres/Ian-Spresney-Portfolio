@@ -404,26 +404,33 @@ body.dark-theme {
 
 .card {
   width: auto;
+  height: 200px;
   padding: 20px;
+  margin: 20px;
   border-radius: 15px;
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
-   /* Replace with your image path */
-  background-size: cover;
   color: white;
   text-align: center;
+  background-size: cover;
+}
+
+#card1 {
+  background-image: url('../img/project1.jpg'); /* Replace with your image path */
+}
+
+#card2 {
+  background-image: url('../img/project2.jpg'); /* Replace with your image path */
 }
 
 .card h1 {
   margin: 0;
   font-size: 24px;
-  color: #fff;
 }
 
 .card h2 {
   margin-top: 5px;
   font-size: 16px;
   opacity: 0.8;
-  color: #fff;
 }
 
 /* Hide and show projects & skills */
