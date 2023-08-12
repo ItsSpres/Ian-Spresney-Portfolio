@@ -416,12 +416,14 @@ body.dark-theme {
 .card h1 {
   margin: 0;
   font-size: 24px;
+  color: #fff;
 }
 
 .card h2 {
   margin-top: 5px;
   font-size: 16px;
   opacity: 0.8;
+  color: #fff;
 }
 
 /* Hide and show projects & skills */
