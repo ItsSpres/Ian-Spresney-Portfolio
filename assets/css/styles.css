@@ -491,6 +491,9 @@ body.dark-theme {
   .skills__box {
     column-gap: 1rem;
   }
+  .skills__content{
+    justify-content: center;
+  }
 }
 
 /* For medium devices */
@@ -499,7 +502,11 @@ body.dark-theme {
     grid-template-columns: 332px;
     justify-content: center;
   }
+  .skills__content {
 
+    justify-content: center;
+
+  }
   .filters__content {
     width: 332px;
     margin: 3rem auto;
