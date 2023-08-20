@@ -361,6 +361,23 @@ body.dark-theme {
 }
 
 /*=============== EDUCATION ===============*/
+.education__separator-title {
+  font-size: var(--h3-font-size);
+  margin-bottom: .75rem;
+  width: 100%;
+  margin-top: 0px;
+  text-align: center;
+  align-content: center;
+}
+.education__separator-title02 {
+  font-size: var(--h3-font-size);
+  margin-bottom: 1rem;
+  width: 100%;
+  margin-top: 50px;
+  text-align: center;
+  align-content: center;
+}
+
 .education__card {
   position: relative;
   border-radius: 1rem;
