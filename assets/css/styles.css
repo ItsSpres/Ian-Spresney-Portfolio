@@ -367,6 +367,20 @@ body.dark-theme {
   overflow: hidden;
 }
 
+.education__separator-title {
+  font-size: var(--h3-font-size);
+  margin-bottom: .75rem;
+  margin-top: 0px;
+  text-align: center;
+  align-content: center;
+}
+.education__separator-title02 {
+  font-size: var(--h3-font-size);
+  margin-bottom: 1rem;
+  margin-top: 50px;
+  text-align: center;
+  align-content: center;
+}
 
 .education__card img {
   width: 100%;
