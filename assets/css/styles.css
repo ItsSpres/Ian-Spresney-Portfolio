@@ -370,6 +370,7 @@ body.dark-theme {
 .education__separator-title {
   font-size: var(--h3-font-size);
   margin-bottom: .75rem;
+  width: 100%;
   margin-top: 0px;
   text-align: center;
   align-content: center;
@@ -377,6 +378,7 @@ body.dark-theme {
 .education__separator-title02 {
   font-size: var(--h3-font-size);
   margin-bottom: 1rem;
+  width: 100%;
   margin-top: 50px;
   text-align: center;
   align-content: center;
