@@ -504,15 +504,15 @@ body.dark-theme {
 .timeline__main-title {
   font-size: var(--h2-font-size);
   margin-top: 80px;
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 20%;
+  margin-right: 20%;
   text-align: center;
 }
 
 .timeline {
   margin-top: 20px;
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 .timeline__item {
@@ -598,7 +598,7 @@ body.dark-theme {
 }
 
 /* iPhones 14 Pro Max and below*/
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 435px) {
   .timeline {
     margin-left: 5%;
     margin-right: 5%;
@@ -618,6 +618,22 @@ body.dark-theme {
   }
   .skills__content{
     justify-content: center;
+  }
+}
+@media screen and (max-width: 575px) {
+  .timeline {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .timeline__title {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .timeline__date {
+    text-align: left;
+  }
+  .timeline__content {
+    margin-left: 5px;
   }
 }
 /* For medium devices */
@@ -653,6 +669,10 @@ body.dark-theme {
   .skills__content {
     justify-content: center;
     column-gap: 3rem;
+  }
+  .timeline {
+    margin-left: 20%;
+    margin-right: 20%;
   }
 }
 
@@ -711,4 +731,9 @@ body.dark-theme {
   .footer__copy {
     margin: 4.5rem 0 2.5rem;
   }
+  .timeline {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  
 }
