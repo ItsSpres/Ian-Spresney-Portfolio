@@ -463,6 +463,10 @@ body.dark-theme {
   column-gap: 3rem;
 }
 
+.space_other-skills {
+  margin-top: 3rem;
+}
+
 .skills__group {
   display: grid;
   align-content: flex-start;
