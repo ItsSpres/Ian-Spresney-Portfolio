@@ -603,6 +603,11 @@ body.dark-theme {
   background-color: hsl(var(--hue), 8%, 44%);
 }
 
+/*Mouse Cursor Changing*/
+
+
+
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 @media screen and (max-width: 320px) {
